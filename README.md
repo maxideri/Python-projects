@@ -5,5 +5,5 @@ it is a two players game where you have to put three X or O in line. It allow th
 it doesnt allow to overwrite positions, and informs if there is a winner or a draw
 To play you have to script play_game
 
-BlackJack
-A single player game in which you have to win to the computer. 
+BlackJack:
+It is a single player game in which you have to win to the computer. 
