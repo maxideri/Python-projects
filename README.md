@@ -8,5 +8,5 @@ To play you have to script play_game
 BlackJack:
 It is a single player game in which you have to win to the computer. 
 
-Order command line:
+Order_cl:
 It is a program that runs on the command line that receives quantities of an order and the ID of who made the order, and returns the amount to be paid, taking as reference the dollar price from an API. If the operation is successful, the purchase is registered in a sqlite database
