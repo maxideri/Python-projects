@@ -191,5 +191,7 @@ boton = tk.Button(text="Salir", command=salir)
 boton.place(x=bx+180,y=by)
 boton.config(width=w, height=h)
 
+ventana.bind("<Return>", lambda x: confirmar())
+
 ventana.mainloop()
 
